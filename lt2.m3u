@@ -1,149 +1,376 @@
 #EXTM3U
-#EXTINF:-1,101  Limites
-http://38.43.151.206:8000/play/a067/index.m3u8
-#EXTINF:-1,102 Latina
-http://38.43.151.206:8000/play/a034/index.m3u8
-#EXTINF:-1,103 Movistar Deportes
-http://38.43.151.206:8000/play/a02z/index.m3u8
-#EXTINF:-1,104 America TV
-http://38.43.151.206:8000/play/a033/index.m3u8
-#EXTINF:-1,105 Panamericana TV
-http://38.43.151.206:8000/play/a063/index.m3u8
-#EXTINF:-1,107 TV Peru SD
-http://38.43.151.206:8000/play/a066/index.m3u8
-#EXTINF:-1,108 Canal N
-http://38.43.151.206:8000/play/a06c/index.m3u8
-#EXTINF:-1,109 ATV
-http://38.43.151.206:8000/play/a064/index.m3u8
-#EXTINF:-1,110 Willax
-http://38.43.151.206:8000/play/a05z/index.m3u8
-#EXTINF:-1,112 Pasiones HD
-http://38.43.151.206:8000/play/a01m/index.m3u8
-#EXTINF:-1,113 Las Estrellas HD
-http://38.43.151.206:8000/play/a02m/index.m3u8
-#EXTINF:-1,114 TNT Novelas
-http://38.43.151.206:8000/play/a05y/index.m3u8
-#EXTINF:-1,115 RCN Novelas
-http://38.43.151.206:8000/play/a05u/index.m3u8
-#EXTINF:-1,116 Kanal D Drama HD
-http://38.43.151.206:8000/play/a057/index.m3u8
-#EXTINF:-1,117 Telemundo
-http://38.43.151.206:8000/play/a06g/index.m3u8
-#EXTINF:-1,118 Discovery Theater HD
-http://38.43.151.206:8000/play/a024/index.m3u8
-#EXTINF:-1,120History 2 HD
-http://38.43.151.206:8000/play/a02r/index.m3u8
-#EXTINF:-1,121 Discovery HD
-http://38.43.151.206:8000/play/a05i/index.m3u8
-#EXTINF:-1,123 History Channel HD
-http://38.43.151.206:8000/play/a05n/index.m3u8
-#EXTINF:-1,124 Nat Geo HD
-http://38.43.151.206:8000/play/a051/index.m3u8
-#EXTINF:-1,125 Sun Channel HD
-http://38.43.151.206:8000/play/a05m/index.m3u8
-#EXTINF:-1,126 HomeandHealth
-http://38.43.151.206:8000/play/a060/index.m3u8
-#EXTINF:-1,127 Discovery World HD
-http://38.43.151.206:8000/play/a052/index.m3u8
-#EXTINF:-1,128 France 24
-http://38.43.151.206:8000/play/a05w/index.m3u8
-#EXTINF:-1,129 Animal Planet HD
-http://38.43.151.206:8000/play/a05d/index.m3u8
-#EXTINF:-1,130 MTV HD
-http://38.43.151.206:8000/play/a04x/index.m3u8
-#EXTINF:-1,131 MTV LIVE HD
-http://38.43.151.206:8000/play/a027/index.m3u8
-#EXTINF:-1,132 GolTV
-http://38.43.151.206:8000/play/a032/index.m3u8
-#EXTINF:-1,132 Paramount HD
-http://38.43.151.206:8000/play/a059/index.m3u8
-#EXTINF:-1,134 Disney HD
-http://38.43.151.206:8000/play/a01n/index.m3u8
-#EXTINF:-1,135 Cartoon Network HD
-http://38.43.151.206:8000/play/a058/index.m3u8
-#EXTINF:-1,136 Warner Channel HD
-http://38.43.151.206:8000/play/a00k/index.m3u8
-#EXTINF:-1,137 HBO Family HD
-http://38.43.151.206:8000/play/a02s/index.m3u8
-#EXTINF:-1,138 Studio Universal HD
-http://38.43.151.206:8000/play/a05a/index.m3u8
-#EXTINF:-1,139 Comedy Central HD
-http://38.43.151.206:8000/play/a01y/index.m3u8
-#EXTINF:-1,140 Fox Sports 1 HD
-http://38.43.151.206:8000/play/a06h/index.m3u8
-#EXTINF:-1,141 FOX Sports 2 HD
-http://38.43.151.206:8000/play/a028/index.m3u8
-#EXTINF:-1,142 Fox Sports 3 HD
-http://38.43.151.206:8000/play/a01q/index.m3u8
-#EXTINF:-1,143 ESPN HD
-http://38.43.151.206:8000/play/a00y/index.m3u8
-#EXTINF:-1,144 ESPN 2 HD
-http://38.43.151.206:8000/play/a01v/index.m3u8
-#EXTINF:-1,145 ESPN 3 HD
-http://38.43.151.206:8000/play/a01p/index.m3u8
-#EXTINF:-1,146 ESPN 4
-http://38.43.151.206:8000/play/a065/index.m3u8
-#EXTINF:-1,147 ESPN EXTRA HD
-http://38.43.151.206:8000/play/a055/index.m3u8
-#EXTINF:-1,148 GOL PERU
-http://38.43.151.206:8000/play/a036/index.m3u8
-#EXTINF:-1,149 L1MAX
-http://38.43.151.206:8000/play/a069/index.m3u8
-#EXTINF:-1,150 D Sport HD
-http://38.43.151.206:8000/play/a04m/index.m3u8
-#EXTINF:-1,A&E HD
-http://38.43.151.206:8000/play/a05o/index.m3u8
-#EXTINF:-1,AMC HD
-http://38.43.151.206:8000/play/a054/index.m3u8
-#EXTINF:-1,AXN HD
-http://38.43.151.206:8000/play/a00l/index.m3u8
-#EXTINF:-1,Canal Claro
-http://38.43.151.206:8000/play/a05x/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://38.43.151.206:8000/play/a053/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://38.43.151.206:8000/play/a01x/index.m3u8
-#EXTINF:-1,DHE HD
-http://38.43.151.206:8000/play/a05h/index.m3u8
-#EXTINF:-1,ESPN 4HD
-http://38.43.151.206:8000/play/a06k/index.m3u8
-#EXTINF:-1,ESPN 5HD
-http://38.43.151.206:8000/play/a06i/index.m3u8
-#EXTINF:-1,ESPN 7HD
-http://38.43.151.206:8000/play/a06j/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://38.43.151.206:8000/play/a06l/index.m3u8
-#EXTINF:-1,FX HD
-http://38.43.151.206:8000/play/a02b/index.m3u8
-#EXTINF:-1,GLOBAL
-http://38.43.151.206:8000/play/a06d/index.m3u8
-#EXTINF:-1,Golden HD
-http://38.43.151.206:8000/play/a030/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://38.43.151.206:8000/play/a05c/index.m3u8
-#EXTINF:-1,HBO HD
-http://38.43.151.206:8000/play/a056/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://38.43.151.206:8000/play/a00p/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://38.43.151.206:8000/play/a02t/index.m3u8
-#EXTINF:-1,Kanal D Drama
-http://38.43.151.206:8000/play/a06f/index.m3u8
-#EXTINF:-1,Lolly Kids
-http://38.43.151.206:8000/play/a06t/index.m3u8
-#EXTINF:-1,Movistar Plus
-http://38.43.151.206:8000/play/a06b/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://38.43.151.206:8000/play/a06w/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://38.43.151.206:8000/play/a04z/index.m3u8
-#EXTINF:-1,Sony HD
-http://38.43.151.206:8000/play/a00j/index.m3u8
-#EXTINF:-1,Space HD
-http://38.43.151.206:8000/play/a00m/index.m3u8
-#EXTINF:-1,TNT HD
-http://38.43.151.206:8000/play/a01o/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://38.43.151.206:8000/play/a02a/index.m3u8
-#EXTINF:-1,Warner Channel
-http://38.43.151.206:8000/play/a06v/index.m3u8
+#EXTINF:-0, [startv] AZTECA UNO
+http://23.95.73.56:1234/stream/startv/aztecauno/master.m3u8
+#EXTINF:-0, [startv] IMAGEN TV
+http://23.95.73.56:1234/stream/startv/imagentv/master.m3u8
+#EXTINF:-0, [startv] AZTECA 7
+http://23.95.73.56:1234/stream/startv/azteca7/master.m3u8
+#EXTINF:-0, [startv] CANAL 11
+http://23.95.73.56:1234/stream/startv/canal11/master.m3u8
+#EXTINF:-0, [startv] CANAL CATORCE
+http://23.95.73.56:1234/stream/startv/canalcatorce/master.m3u8
+#EXTINF:-0, [startv] TV UNAM
+http://23.95.73.56:1234/stream/startv/tvunam/master.m3u8
+#EXTINF:-0, [startv] CANAL 22
+http://23.95.73.56:1234/stream/startv/canal22/master.m3u8
+#EXTINF:-0, [startv] CANAL DEL CONGRESO
+http://23.95.73.56:1234/stream/startv/canaldelcongreso/master.m3u8
+#EXTINF:-0, [startv] Aprende+
+http://23.95.73.56:1234/stream/startv/aprende/master.m3u8
+#EXTINF:-0, [startv] MX NUESTRO CINE
+http://23.95.73.56:1234/stream/startv/mxnuestrocine/master.m3u8
+#EXTINF:-0, [startv] ONCE NIÑOS
+http://23.95.73.56:1234/stream/startv/oncenios/master.m3u8
+#EXTINF:-0, [startv] ADN 40
+http://23.95.73.56:1234/stream/startv/adn40/master.m3u8
+#EXTINF:-0, [startv] AZTECA 7
+http://23.95.73.56:1234/stream/startv/azteca7/master.m3u8
+#EXTINF:-0, [startv] STAR CHANNEL
+http://23.95.73.56:1234/stream/startv/starchannel/master.m3u8
+#EXTINF:-0, [startv] COMEDY CENTRAL
+http://23.95.73.56:1234/stream/startv/comedycentral/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY KIDS
+http://23.95.73.56:1234/stream/startv/discoverykids/master.m3u8
+#EXTINF:-0, [startv] DISNEY
+http://23.95.73.56:1234/stream/startv/disney/master.m3u8
+#EXTINF:-0, [startv] DISNEY JR
+http://23.95.73.56:1234/stream/startv/disneyjr/master.m3u8
+#EXTINF:-0, [startv] NICKELODEON
+http://23.95.73.56:1234/stream/startv/nickelodeon/master.m3u8
+#EXTINF:-0, [startv] NICK JR
+http://23.95.73.56:1234/stream/startv/nickjr/master.m3u8
+#EXTINF:-0, [startv] ZOOMOO
+http://23.95.73.56:1234/stream/startv/zoomoo/master.m3u8
+#EXTINF:-0, [startv] CARTOON NETWORK
+http://23.95.73.56:1234/stream/startv/cartoonnetwork/master.m3u8
+#EXTINF:-0, [startv] CARTOONITO
+http://23.95.73.56:1234/stream/startv/cartoonito/master.m3u8
+#EXTINF:-0, [startv] BABY TV
+http://23.95.73.56:1234/stream/startv/babytv/master.m3u8
+#EXTINF:-0, [startv] HBO FAMILY
+http://23.95.73.56:1234/stream/startv/hbofamily/master.m3u8
+#EXTINF:-0, [startv] AGROTENDENCIA
+http://23.95.73.56:1234/stream/startv/agrotendencia/master.m3u8
+#EXTINF:-0, [startv] Aprende+
+http://23.95.73.56:1234/stream/startv/aprende/master.m3u8
+#EXTINF:-0, [startv] HISTORY
+http://23.95.73.56:1234/stream/startv/history/master.m3u8
+#EXTINF:-0, [startv] NATGEO
+http://23.95.73.56:1234/stream/startv/natgeo/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY CHANNEL
+http://23.95.73.56:1234/stream/startv/discoverychannel/master.m3u8
+#EXTINF:-0, [startv] TLC
+http://23.95.73.56:1234/stream/startv/tlc/master.m3u8
+#EXTINF:-0, [startv] LOVE NATURE
+http://23.95.73.56:1234/stream/startv/lovenature/master.m3u8
+#EXTINF:-0, [startv] ONCE NIÑOS
+http://23.95.73.56:1234/stream/startv/oncenios/master.m3u8
+#EXTINF:-0, [startv] JUSTICIA TV
+http://23.95.73.56:1234/stream/startv/justiciatv/master.m3u8
+#EXTINF:-0, [startv] IMAGEN TV
+http://23.95.73.56:1234/stream/startv/imagentv/master.m3u8
+#EXTINF:-0, [startv] AZTECA 7
+http://23.95.73.56:1234/stream/startv/azteca7/master.m3u8
+#EXTINF:-0, [startv] TNT
+http://23.95.73.56:1234/stream/startv/tnt/master.m3u8
+#EXTINF:-0, [startv] CINEMAX
+http://23.95.73.56:1234/stream/startv/cinemax/master.m3u8
+#EXTINF:-0, [startv] SPACE
+http://23.95.73.56:1234/stream/startv/space/master.m3u8
+#EXTINF:-0, [startv] UNIVERSAL CINEMA
+http://23.95.73.56:1234/stream/startv/universalcinema/master.m3u8#EXTINF:-0, [startv] ESPN
+http://23.95.73.56:1234/stream/startv/espn/master.m3u8
+#EXTINF:-0, [startv] ESPN 2
+http://23.95.73.56:1234/stream/startv/espn2/master.m3u8
+#EXTINF:-0, [startv] ESPN 3
+http://23.95.73.56:1234/stream/startv/espn3/master.m3u8
+#EXTINF:-0, [startv] ESPN 4
+http://23.95.73.56:1234/stream/startv/espn4/master.m3u8
+#EXTINF:-0, [startv] FOX SPORTS
+http://23.95.73.56:1234/stream/startv/foxsports/master.m3u8
+#EXTINF:-0, [startv] FOX SPORTS 2
+http://23.95.73.56:1234/stream/startv/foxsports2/master.m3u8
+#EXTINF:-0, [startv] FOX SPORTS 3
+http://23.95.73.56:1234/stream/startv/foxsports3/master.m3u8
+#EXTINF:-0, [startv] FOX SPORTS PREMIUM
+http://23.95.73.56:1234/stream/startv/foxsportspremium/master.m3u8
+#EXTINF:-0, [startv] AZTECA DEPORTES
+http://23.95.73.56:1234/stream/startv/aztecadeportes/master.m3u8
+#EXTINF:-0, [startv] CLARO SPORTS
+http://23.95.73.56:1234/stream/startv/clarosports/master.m3u8
+#EXTINF:-0, [startv] CALIENTE TV
+http://23.95.73.56:1234/stream/startv/calientetv/master.m3u8
+#EXTINF:-0, [startv] AGROTENDENCIA
+http://23.95.73.56:1234/stream/startv/agrotendencia/master.m3u8
+#EXTINF:-0, [startv] ID
+http://23.95.73.56:1234/stream/startv/id/master.m3u8
+#EXTINF:-0, [startv] HISTORY
+http://23.95.73.56:1234/stream/startv/history/master.m3u8
+#EXTINF:-0, [startv] NATGEO
+http://23.95.73.56:1234/stream/startv/natgeo/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY CHANNEL
+http://23.95.73.56:1234/stream/startv/discoverychannel/master.m3u8
+#EXTINF:-0, [startv] HISTORY 2
+http://23.95.73.56:1234/stream/startv/history2/master.m3u8
+#EXTINF:-0, [startv] ANIMAL PLANET
+http://23.95.73.56:1234/stream/startv/animalplanet/master.m3u8
+#EXTINF:-0, [startv] IMAGEN TV
+http://23.95.73.56:1234/stream/startv/imagentv/master.m3u8
+#EXTINF:-0, [startv] CANAL 11
+http://23.95.73.56:1234/stream/startv/canal11/master.m3u8
+#EXTINF:-0, [startv] CANAL CATORCE
+http://23.95.73.56:1234/stream/startv/canalcatorce/master.m3u8
+#EXTINF:-0, [startv] TV UNAM
+http://23.95.73.56:1234/stream/startv/tvunam/master.m3u8
+#EXTINF:-0, [startv] CANAL 22
+http://23.95.73.56:1234/stream/startv/canal22/master.m3u8
+#EXTINF:-0, [startv] CANAL DEL CONGRESO
+http://23.95.73.56:1234/stream/startv/canaldelcongreso/master.m3u8
+#EXTINF:-0, [startv] LA MEXICANATV
+http://23.95.73.56:1234/stream/startv/lamexicanatv/master.m3u8
+#EXTINF:-0, [startv] MTV
+http://23.95.73.56:1234/stream/startv/mtv/master.m3u8
+#EXTINF:-0, [startv] TELERITMO
+http://23.95.73.56:1234/stream/startv/teleritmo/master.m3u8
+#EXTINF:-0, [startv] LA MEJOR TV
+http://23.95.73.56:1234/stream/startv/lamejortv/master.m3u8
+#EXTINF:-0, [startv] EXA TV
+http://23.95.73.56:1234/stream/startv/exatv/master.m3u8
+#EXTINF:-0, [startv] ULTRA BANDA
+http://23.95.73.56:1234/stream/startv/ultrabanda/master.m3u8
+#EXTINF:-0, [startv] MTV 00S
+http://23.95.73.56:1234/stream/startv/mtv00s/master.m3u8
+#EXTINF:-0, [startv] TELEFORMULA
+http://23.95.73.56:1234/stream/startv/teleformula/master.m3u8
+#EXTINF:-0, [startv] AGROTENDENCIA
+http://23.95.73.56:1234/stream/startv/agrotendencia/master.m3u8
+#EXTINF:-0, [startv] STARLINK STREAM
+http://23.95.73.56:1234/stream/startv/starlinkstream/master.m3u8
+#EXTINF:-0, [startv] SEIS+
+http://23.95.73.56:1234/stream/startv/seis/master.m3u8
+#EXTINF:-0, [startv] WARNER
+http://23.95.73.56:1234/stream/startv/warner/master.m3u8
+#EXTINF:-0, [startv] E!
+http://23.95.73.56:1234/stream/startv/e/master.m3u8
+#EXTINF:-0, [startv] USA NETWORK
+http://23.95.73.56:1234/stream/startv/usanetwork/master.m3u8
+#EXTINF:-0, [startv] FOOD NETWORK
+http://23.95.73.56:1234/stream/startv/foodnetwork/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY H&H
+http://23.95.73.56:1234/stream/startv/discoveryhh/master.m3u8
+#EXTINF:-0, [startv] LIFETIME
+http://23.95.73.56:1234/stream/startv/lifetime/master.m3u8
+#EXTINF:-0, [startv] CORAZON
+http://23.95.73.56:1234/stream/startv/corazon/master.m3u8
+#EXTINF:-0, [startv] CLIC
+http://23.95.73.56:1234/stream/startv/clic/master.m3u8
+#EXTINF:-0, [startv] COMEDY CENTRAL
+http://23.95.73.56:1234/stream/startv/comedycentral/master.m3u8
+#EXTINF:-0, [startv] Aprende+
+http://23.95.73.56:1234/stream/startv/aprende/master.m3u8
+#EXTINF:-0, [startv] MX NUESTRO CINE
+http://23.95.73.56:1234/stream/startv/mxnuestrocine/master.m3u8
+#EXTINF:-0, [startv] HISTORY
+http://23.95.73.56:1234/stream/startv/history/master.m3u8
+#EXTINF:-0, [startv] HISTORY 2
+http://23.95.73.56:1234/stream/startv/history2/master.m3u8
+#EXTINF:-0, [startv] TLC
+http://23.95.73.56:1234/stream/startv/tlc/master.m3u8
+#EXTINF:-0, [startv] ONCE NIÑOS
+http://23.95.73.56:1234/stream/startv/oncenios/master.m3u8
+#EXTINF:-0, [startv] STUDIO UNIVERSAL
+http://23.95.73.56:1234/stream/startv/studiouniversal/master.m3u8#EXTINF:-0, [startv] SPACE
+http://23.95.73.56:1234/stream/startv/space/master.m3u8
+#EXTINF:-0, [startv] UNIVERSAL REALITY
+http://23.95.73.56:1234/stream/startv/universalreality/master.m3u8
+#EXTINF:-0, [startv] TURBO
+http://23.95.73.56:1234/stream/startv/turbo/master.m3u8
+#EXTINF:-0, [startv] EL HERALDO
+http://23.95.73.56:1234/stream/startv/elheraldo/master.m3u8
+#EXTINF:-0, [startv] A+
+http://23.95.73.56:1234/stream/startv/a/master.m3u8
+#EXTINF:-0, [startv] ADN 40
+http://23.95.73.56:1234/stream/startv/adn40/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY KIDS
+http://23.95.73.56:1234/stream/startv/discoverykids/master.m3u8
+#EXTINF:-0, [startv] DISNEY
+http://23.95.73.56:1234/stream/startv/disney/master.m3u8
+#EXTINF:-0, [startv] DISNEY JR
+http://23.95.73.56:1234/stream/startv/disneyjr/master.m3u8
+#EXTINF:-0, [startv] NICKELODEON
+http://23.95.73.56:1234/stream/startv/nickelodeon/master.m3u8
+#EXTINF:-0, [startv] NICK JR
+http://23.95.73.56:1234/stream/startv/nickjr/master.m3u8
+#EXTINF:-0, [startv] ONCE NIÑOS
+http://23.95.73.56:1234/stream/startv/oncenios/master.m3u8
+#EXTINF:-0, [startv] ZOOMOO
+http://23.95.73.56:1234/stream/startv/zoomoo/master.m3u8
+#EXTINF:-0, [startv] CARTOON NETWORK
+http://23.95.73.56:1234/stream/startv/cartoonnetwork/master.m3u8
+#EXTINF:-0, [startv] CARTOONITO
+http://23.95.73.56:1234/stream/startv/cartoonito/master.m3u8
+#EXTINF:-0, [startv] BABY TV
+http://23.95.73.56:1234/stream/startv/babytv/master.m3u8
+#EXTINF:-0, [startv] MTV
+http://23.95.73.56:1234/stream/startv/mtv/master.m3u8
+#EXTINF:-0, [startv] TELERITMO
+http://23.95.73.56:1234/stream/startv/teleritmo/master.m3u8
+#EXTINF:-0, [startv] LA MEJOR TV
+http://23.95.73.56:1234/stream/startv/lamejortv/master.m3u8
+#EXTINF:-0, [startv] EXA TV
+http://23.95.73.56:1234/stream/startv/exatv/master.m3u8
+#EXTINF:-0, [startv] MTV 00S
+http://23.95.73.56:1234/stream/startv/mtv00s/master.m3u8
+#EXTINF:-0, [startv] STINGRAY POP LATINO
+http://23.95.73.56:1234/stream/startv/stingraypoplatino/master.m3u8
+#EXTINF:-0, [startv] STINGRAY LATINO TROPICAL
+http://23.95.73.56:1234/stream/startv/stingraylatinotropical/master.m3u8
+#EXTINF:-0, [startv] STINGRAY ROCK EN ESPAÑOL
+http://23.95.73.56:1234/stream/startv/stingrayrockenespaol/master.m3u8
+#EXTINF:-0, [startv] STINGRAY MARIACHI PARA SIEMPRE
+http://23.95.73.56:1234/stream/startv/stingraymariachiparasiempre/master.m3u8
+#EXTINF:-0, [startv] STINGRAY VIVA MEXICO
+http://23.95.73.56:1234/stream/startv/stingrayvivamexico/master.m3u8
+#EXTINF:-0, [startv] STINGRAY REGGAETÓN
+http://23.95.73.56:1234/stream/startv/stingrayreggaetn/master.m3u8
+#EXTINF:-0, [startv] STINGRAY ROMANCE LATINO
+http://23.95.73.56:1234/stream/startv/stingrayromancelatino/master.m3u8
+#EXTINF:-0, [startv] STINGRAY SALSA Y MERENGUE
+http://23.95.73.56:1234/stream/startv/stingraysalsaymerengue/master.m3u8
+#EXTINF:-0, [startv] STINGRAY LATIN LOUNGE
+http://23.95.73.56:1234/stream/startv/stingraylatinlounge/master.m3u8
+#EXTINF:-0, [startv] STINGRAY VIEJITAS PERO BUENÍSIMAS
+http://23.95.73.56:1234/stream/startv/stingrayviejitasperobuensimas/master.m3u8
+#EXTINF:-0, [startv] STINGRAY HARD ROCK
+http://23.95.73.56:1234/stream/startv/stingrayhardrock/master.m3u8
+#EXTINF:-0, [startv] STINGRAY ROCK ALTERNATIVO
+http://23.95.73.56:1234/stream/startv/stingrayrockalternativo/master.m3u8
+#EXTINF:-0, [startv] STINGRAY CLÁSICOS INDIE
+http://23.95.73.56:1234/stream/startv/stingrayclsicosindie/master.m3u8
+#EXTINF:-0, [startv] STINGRAY AÑOS 80
+http://23.95.73.56:1234/stream/startv/stingrayaos80/master.m3u8
+#EXTINF:-0, [startv] STINGRAY AÑOS 90
+http://23.95.73.56:1234/stream/startv/stingrayaos90/master.m3u8
+#EXTINF:-0, [startv] STINGRAY EXITOS RECIENTES
+http://23.95.73.56:1234/stream/startv/stingrayexitosrecientes/master.m3u8
+#EXTINF:-0, [startv] STINGRAY POP ADULTO
+http://23.95.73.56:1234/stream/startv/stingraypopadulto/master.m3u8
+#EXTINF:-0, [startv] STINGRAY SÓLO PARA PEQUES
+http://23.95.73.56:1234/stream/startv/stingraysloparapeques/master.m3u8
+#EXTINF:-0, [startv] STINGRAY JAZZ LATINO
+http://23.95.73.56:1234/stream/startv/stingrayjazzlatino/master.m3u8
+#EXTINF:-0, [startv] STINGRAY MAESTROS DEL JAZZ
+http://23.95.73.56:1234/stream/startv/stingraymaestrosdeljazz/master.m3u8
+#EXTINF:-0, [startv] STINGRAY COCKTAIL LOUNGE
+http://23.95.73.56:1234/stream/startv/stingraycocktaillounge/master.m3u8
+#EXTINF:-0, [startv] STINGRAY EL SALON CHILLSEÑAL
+http://23.95.73.56:1234/stream/startv/stingrayelsalonchillseal/master.m3u8
+#EXTINF:-0, [startv] STINGRAY ÓPERA PLUS
+http://23.95.73.56:1234/stream/startv/stingrayperaplus/master.m3u8
+#EXTINF:-0, [startv] STINGRAY CLÁSICOS PARA TODOS
+http://23.95.73.56:1234/stream/startv/stingrayclsicosparatodos/master.m3u8
+#EXTINF:-0, [startv] STINGRAY EVENTOS
+http://23.95.73.56:1234/stream/startv/stingrayeventos/master.m3u8
+#EXTINF:-0, [startv] LA KEBUENA
+http://23.95.73.56:1234/stream/startv/lakebuena/master.m3u8
+#EXTINF:-0, [startv] LOS40
+http://23.95.73.56:1234/stream/startv/los40/master.m3u8
+#EXTINF:-0, [startv] AGROTENDENCIA
+http://23.95.73.56:1234/stream/startv/agrotendencia/master.m3u8
+#EXTINF:-0, [startv] NATGEO
+http://23.95.73.56:1234/stream/startv/natgeo/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY CHANNEL
+http://23.95.73.56:1234/stream/startv/discoverychannel/master.m3u8
+#EXTINF:-0, [startv] LOVE NATURE
+http://23.95.73.56:1234/stream/startv/lovenature/master.m3u8
+#EXTINF:-0, [startv] ANIMAL PLANET
+http://23.95.73.56:1234/stream/startv/animalplanet/master.m3u8
+#EXTINF:-0, [startv] CANAL 11
+http://23.95.73.56:1234/stream/startv/canal11/master.m3u8
+#EXTINF:-0, [startv] CANAL CATORCE
+http://23.95.73.56:1234/stream/startv/canalcatorce/master.m3u8
+#EXTINF:-0, [startv] TV UNAM
+http://23.95.73.56:1234/stream/startv/tvunam/master.m3u8
+#EXTINF:-0, [startv] CANAL 22
+http://23.95.73.56:1234/stream/startv/canal22/master.m3u8
+#EXTINF:-0, [startv] CANAL DEL CONGRESO
+http://23.95.73.56:1234/stream/startv/canaldelcongreso/master.m3u8
+#EXTINF:-0, [startv] TELEFORMULA
+http://23.95.73.56:1234/stream/startv/teleformula/master.m3u8
+#EXTINF:-0, [startv] SEIS+
+http://23.95.73.56:1234/stream/startv/seis/master.m3u8
+#EXTINF:-0, [startv] CNN EN ESPAÑOL
+http://23.95.73.56:1234/stream/startv/cnnenespaol/master.m3u8
+#EXTINF:-0, [startv] MILENIO
+http://23.95.73.56:1234/stream/startv/milenio/master.m3u8
+#EXTINF:-0, [startv] EL FINANCIERO
+http://23.95.73.56:1234/stream/startv/elfinanciero/master.m3u8
+#EXTINF:-0, [startv] CNN INTERNACIONAL
+http://23.95.73.56:1234/stream/startv/cnninternacional/master.m3u8
+#EXTINF:-0, [startv] EL HERALDO
+http://23.95.73.56:1234/stream/startv/elheraldo/master.m3u8
+#EXTINF:-0, [startv] JUSTICIA TV
+http://23.95.73.56:1234/stream/startv/justiciatv/master.m3u8
+#EXTINF:-0, [startv] A+
+http://23.95.73.56:1234/stream/startv/a/master.m3u8
+#EXTINF:-0, [startv] ADN 40
+http://23.95.73.56:1234/stream/startv/adn40/master.m3u8
+#EXTINF:-0, [startv] RADIO ZAC
+http://23.95.73.56:1234/stream/startv/radiozac/master.m3u8
+#EXTINF:-0, [startv] RADIO GDL
+http://23.95.73.56:1234/stream/startv/radiogdl/master.m3u8
+#EXTINF:-0, [startv] SONY
+http://23.95.73.56:1234/stream/startv/sony/master.m3u8
+#EXTINF:-0, [startv] USA NETWORK
+http://23.95.73.56:1234/stream/startv/usanetwork/master.m3u8
+#EXTINF:-0, [startv] STUDIO UNIVERSAL
+http://23.95.73.56:1234/stream/startv/studiouniversal/master.m3u8#EXTINF:-0, [startv] TNT
+http://23.95.73.56:1234/stream/startv/tnt/master.m3u8
+#EXTINF:-0, [startv] HBO FAMILY
+http://23.95.73.56:1234/stream/startv/hbofamily/master.m3u8
+#EXTINF:-0, [startv] A+
+http://23.95.73.56:1234/stream/startv/a/master.m3u8
+#EXTINF:-0, [startv] MARIAVISIÓN
+http://23.95.73.56:1234/stream/startv/mariavisin/master.m3u8
+#EXTINF:-0, [startv] ENLACE
+http://23.95.73.56:1234/stream/startv/enlace/master.m3u8
+#EXTINF:-0, [startv] UNIVERSAL
+http://23.95.73.56:1234/stream/startv/universal/master.m3u8
+#EXTINF:-0, [startv] ID
+http://23.95.73.56:1234/stream/startv/id/master.m3u8
+#EXTINF:-0, [startv] USA NETWORK
+http://23.95.73.56:1234/stream/startv/usanetwork/master.m3u8
+#EXTINF:-0, [startv] AXN
+http://23.95.73.56:1234/stream/startv/axn/master.m3u8
+#EXTINF:-0, [startv] A&E
+http://23.95.73.56:1234/stream/startv/ae/master.m3u8
+#EXTINF:-0, [startv] TELEMUNDO
+http://23.95.73.56:1234/stream/startv/telemundo/master.m3u8
+#EXTINF:-0, [startv] COMEDY CENTRAL
+http://23.95.73.56:1234/stream/startv/comedycentral/master.m3u8
+#EXTINF:-0, [startv] HISTORY
+http://23.95.73.56:1234/stream/startv/history/master.m3u8
+#EXTINF:-0, [startv] TLC
+http://23.95.73.56:1234/stream/startv/tlc/master.m3u8
+#EXTINF:-0, [startv] ANIMAL PLANET
+http://23.95.73.56:1234/stream/startv/animalplanet/master.m3u8
+#EXTINF:-0, [startv] DISCOVERY KIDS
+http://23.95.73.56:1234/stream/startv/discoverykids/master.m3u8
+#EXTINF:-0, [startv] HBO 2
+http://23.95.73.56:1234/stream/startv/hbo2/master.m3u8
+#EXTINF:-0, [startv] HBO MUNDI
+http://23.95.73.56:1234/stream/startv/hbomundi/master.m3u8
+#EXTINF:-0, [startv] HBO FAMILY
+http://23.95.73.56:1234/stream/startv/hbofamily/master.m3u8
+#EXTINF:-0, [startv] HBO XTREME
+http://23.95.73.56:1234/stream/startv/hboxtreme/master.m3u8
+#EXTINF:-0, [startv] HBO POP
+http://23.95.73.56:1234/stream/startv/hbopop/master.m3u8
+#EXTINF:-0, [startv] UNIVERSAL PREMIERE
+http://23.95.73.56:1234/stream/startv/universalpremiere/master.m3u8
+#EXTINF:-0, [startv] UNIVERSAL COMEDY
+http://23.95.73.56:1234/stream/startv/universalcomedy/master.m3u8
+#EXTINF:-0, [startv] UNIVERSAL CRIME
+http://23.95.73.56:1234/stream/startv/universalcrime/master.m3u8
+#EXTINF:-0, [startv2] lovenature
+http://23.95.73.56:1234/stream/startv2/lovenature/master.m3u8
