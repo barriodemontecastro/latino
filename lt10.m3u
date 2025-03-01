@@ -1,193 +1,24 @@
-#EXTM3U
-#EXTINF:-1,Cartoon Network
-http://200.115.120.1:8000/play/ca002/index.m3u8
-#EXTINF:-1,Canal 3
-http://200.115.120.1:8000/play/ca003/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://200.115.120.1:8000/play/ca004/index.m3u8
-#EXTINF:-1,DREAMWORKS SD
-http://200.115.120.1:8000/play/ca005/index.m3u8
-#EXTINF:-1,Cartoonito
-http://200.115.120.1:8000/play/ca006/index.m3u8
-#EXTINF:-1,Canal 7
-http://200.115.120.1:8000/play/ca007/index.m3u8
-#EXTINF:-1,Tooncast
-http://200.115.120.1:8000/play/ca008/index.m3u8
-#EXTINF:-1,Disney Junior
-http://200.115.120.1:8000/play/ca009/index.m3u8
-#EXTINF:-1,Baby TV
-http://200.115.120.1:8000/play/ca010/index.m3u8
-#EXTINF:-1,Canal 11
-http://200.115.120.1:8000/play/ca011/index.m3u8
-#EXTINF:-1,Disney channel
-http://200.115.120.1:8000/play/ca012/index.m3u8
-#EXTINF:-1,Canal 13
-http://200.115.120.1:8000/play/ca013/index.m3u8
-#EXTINF:-1,Teen Nick
-http://200.115.120.1:8000/play/ca014/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://200.115.120.1:8000/play/ca015/index.m3u8
-#EXTINF:-1,Distrito Comedia
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1,Comedia Central
-http://200.115.120.1:8000/play/ca017/index.m3u8
-#EXTINF:-1,Galavision
-http://200.115.120.1:8000/play/ca018/index.m3u8
-#EXTINF:-1,Las Estrellas
-http://200.115.120.1:8000/play/ca019/index.m3u8
-#EXTINF:-1,Telenovelas
-http://200.115.120.1:8000/play/ca020/index.m3u8
-#EXTINF:-1,Telemundo
-http://200.115.120.1:8000/play/ca021/index.m3u8
-#EXTINF:-1,Pasiones
-http://200.115.120.1:8000/play/ca022/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://200.115.120.1:8000/play/ca023/index.m3u8
-#EXTINF:-1,Telesur
-http://200.115.120.1:8000/play/ca024/index.m3u8
-#EXTINF:-1,AZ Corazon
-http://200.115.120.1:8000/play/ca025/index.m3u8
-#EXTINF:-1,Univision Telenovelas
-http://200.115.120.1:8000/play/ca026/index.m3u8
-#EXTINF:-1,Ve Plus
-http://200.115.120.1:8000/play/ca027/index.m3u8
-#EXTINF:-1,City
-http://200.115.120.1:8000/play/ca028/index.m3u8
-#EXTINF:-1,Maschic
-http://200.115.120.1:8000/play/ca029/index.m3u8
-#EXTINF:-1,Hola TV
-http://200.115.120.1:8000/play/ca030/index.m3u8
-#EXTINF:-1,E!
-http://200.115.120.1:8000/play/ca031/index.m3u8
-#EXTINF:-1,H&H
-http://200.115.120.1:8000/play/ca032/index.m3u8
-#EXTINF:-1,TLC
-http://200.115.120.1:8000/play/ca033/index.m3u8
-#EXTINF:-1,Sony Chanel
-http://200.115.120.1:8000/play/ca034/index.m3u8
-#EXTINF:-1,Star Channel
-http://200.115.120.1:8000/play/ca035/index.m3u8
-#EXTINF:-1,AXN
-http://200.115.120.1:8000/play/ca036/index.m3u8
-#EXTINF:-1,Warner
-http://200.115.120.1:8000/play/ca037/index.m3u8
-#EXTINF:-1,A3S serie
-http://200.115.120.1:8000/play/ca038/index.m3u8
-#EXTINF:-1,TNT Serie
-http://200.115.120.1:8000/play/ca039/index.m3u8
-#EXTINF:-1,TNT
-http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1,FX
-http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:-1,Golden
-http://200.115.120.1:8000/play/ca042/index.m3u8
-#EXTINF:-1,Space
-http://200.115.120.1:8000/play/ca043/index.m3u8
-#EXTINF:-1,Studio Universal
-http://200.115.120.1:8000/play/ca044/index.m3u8
-#EXTINF:-1,Cine Canal
-http://200.115.120.1:8000/play/ca045/index.m3u8
-#EXTINF:-1,Cinema Platino
-http://200.115.120.1:8000/play/ca046/index.m3u8
-#EXTINF:-1,TCM
-http://200.115.120.1:8000/play/ca047/index.m3u8
-#EXTINF:-1,De Pelicula
-http://200.115.120.1:8000/play/ca048/index.m3u8
-#EXTINF:-1,A&E
-http://200.115.120.1:8000/play/ca049/index.m3u8
-#EXTINF:-1,Film & Arts
-http://200.115.120.1:8000/play/ca050/index.m3u8
-#EXTINF:-1,Lifetime
-http://200.115.120.1:8000/play/ca051/index.m3u8
-#EXTINF:-1,SyFy
-http://200.115.120.1:8000/play/ca052/index.m3u8
-#EXTINF:-1,CSAT
-http://200.115.120.1:8000/play/ca053/index.m3u8
-#EXTINF:-1,Tv Azteca
-http://200.115.120.1:8000/play/ca054/index.m3u8
-#EXTINF:-1,Canal Antigua
-http://200.115.120.1:8000/play/ca055/index.m3u8
-#EXTINF:-1,Guatevision
-http://200.115.120.1:8000/play/ca056/index.m3u8
-#EXTINF:-1,TN23
-http://200.115.120.1:8000/play/ca057/index.m3u8
-#EXTINF:-1,Vea Canal
-http://200.115.120.1:8000/play/ca058/index.m3u8
-#EXTINF:-1,CNN Español
-http://200.115.120.1:8000/play/ca059/index.m3u8
-#EXTINF:-1,CNN Ingles
-http://200.115.120.1:8000/play/ca060/index.m3u8
-#EXTINF:-1,Antena 3
-http://200.115.120.1:8000/play/ca061/index.m3u8
-#EXTINF:-1,Caracol
-http://200.115.120.1:8000/play/ca062/index.m3u8
-#EXTINF:-1,Telefe
-http://200.115.120.1:8000/play/ca063/index.m3u8
-#EXTINF:-1,Colombia
-http://200.115.120.1:8000/play/ca064/index.m3u8
-#EXTINF:-1,Mega TV
-http://200.115.120.1:8000/play/ca065/index.m3u8
-#EXTINF:-1,LN+
-http://200.115.120.1:8000/play/ca066/index.m3u8
-#EXTINF:-1,Bandamax
-http://200.115.120.1:8000/play/ca067/index.m3u8
-#EXTINF:-1,Telehit
-http://200.115.120.1:8000/play/ca068/index.m3u8
-#EXTINF:-1,MTV Hits
-http://200.115.120.1:8000/play/ca069/index.m3u8
-#EXTINF:-1,Much
-http://200.115.120.1:8000/play/ca070/index.m3u8
-#EXTINF:-1,ESPN
-http://200.115.120.1:8000/play/ca071/index.m3u8
-#EXTINF:-1,ESPN 2
-http://200.115.120.1:8000/play/ca072/index.m3u8
-#EXTINF:-1,ESPN 3
-http://200.115.120.1:8000/play/ca073/index.m3u8
-#EXTINF:-1,TUDN
-http://200.115.120.1:8000/play/ca074/index.m3u8
-#EXTINF:-1,FOX Sports
-http://200.115.120.1:8000/play/ca075/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://200.115.120.1:8000/play/ca076/index.m3u8
-#EXTINF:-1,FOX Sports 3
-http://200.115.120.1:8000/play/ca077/index.m3u8
-#EXTINF:-1,TYC sport
-http://200.115.120.1:8000/play/ca078/index.m3u8
-#EXTINF:-1,Animal Planet
-http://200.115.120.1:8000/play/ca079/index.m3u8
-#EXTINF:-1,History
-http://200.115.120.1:8000/play/ca080/index.m3u8
-#EXTINF:-1,Discovery
-http://200.115.120.1:8000/play/ca081/index.m3u8
-#EXTINF:-1,HGTV
-http://200.115.120.1:8000/play/ca082/index.m3u8
-#EXTINF:-1,Discovery ID
-http://200.115.120.1:8000/play/ca083/index.m3u8
-#EXTINF:-1,National Geographic
-http://200.115.120.1:8000/play/ca084/index.m3u8
-#EXTINF:-1,DW
-http://200.115.120.1:8000/play/ca085/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://200.115.120.1:8000/play/ca086/index.m3u8
-#EXTINF:-1,Discovery Science
-http://200.115.120.1:8000/play/ca087/index.m3u8
-#EXTINF:-1,Love Nature
-http://200.115.120.1:8000/play/ca089/index.m3u8
-#EXTINF:-1,EWTN
-http://200.115.120.1:8000/play/ca090/index.m3u8
-#EXTINF:-1,Enlace
-http://200.115.120.1:8000/play/ca091/index.m3u8
-#EXTINF:-1,Canal 27
-http://200.115.120.1:8000/play/ca092/index.m3u8
-#EXTINF:-1,ABN
-http://200.115.120.1:8000/play/ca093/index.m3u8
-#EXTINF:-1,Maria Vision
-http://200.115.120.1:8000/play/ca094/index.m3u8
-#EXTINF:-1,Canal Cristiano
-http://200.115.120.1:8000/play/ca095/index.m3u8
-#EXTINF:-1,Rhema TV
-http://200.115.120.1:8000/play/ca096/index.m3u8
-#EXTINF:-1,Panamericana
-http://200.115.120.1:8000/play/ca249/index.m3u8
-#EXTINF:-1,CGTN
-http://200.115.120.1:8000/play/ca088/index.m3u8
+#EXTM3U  
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+
