@@ -18,6 +18,12 @@ https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 
+#EXTINF:-1,ELEVEN 1 🇵🇹
+https://stream.veo.buzz:6072/sport/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,ELEVEN 1 🇵🇹
+https://stream.veo.buzz:6072/sport/ch1/adaptive.m3u8
+
 #EXTINF:-1,SPORTSMAX2 🇩🇴
 https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
@@ -31,16 +37,34 @@ http://181.78.74.69:8000/play/a056/index.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdc.vffddd.online/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
+https://wikinew.newkso.ru/wiki/yallalive6324/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, LaLiga TV 🇬🇧 
 https://directplaylive.sbs/live/foot6/chunks.m3u8
+
+#EXTINF:-1, S SPORT 1 🇹🇷
+http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/115598
+
+#EXTINF:-1, S SPORT 2 🇹🇷
+http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6105
 
 #EXTINF:-1, ESPN BRAZIL 🇧🇷
 http://main.fonte021.com:80/Mestre1/102030mestre/91227
@@ -65,6 +89,9 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://190.111.16.106:40000/play/a09r
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
@@ -207,6 +234,9 @@ http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
 #EXTINF:-1, Футбол 🇷🇺
 http://93.189.224.246:52900/play/a00c/index.m3u8
 
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+https://stream.veo.buzz:6074/sport/ch3/ch3_1080.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
 
@@ -267,14 +297,26 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+http://ru02.sh365.org/22937/mpegts?token=Dubx4Vi2wQYxbY
+
 #EXTINF:-1, DIGI Sport 2 🇷🇴
 https://top2new.koskoros.ru/top2/premium401/mono.m3u8
+
+#EXTINF:-1, DIGI Sport 2 🇷🇴
+http://ru02.sh365.org/22382/mpegts?token=Dubx4Vi2wQYxbY
 
 #EXTINF:-1, DIGI Sport 3 🇷🇴
 https://top2new.koskoros.ru/top2/premium402/mono.m3u8
 
+#EXTINF:-1, DIGI Sport 3 🇷🇴
+http://ru02.sh365.org/22394/mpegts?token=Dubx4Vi2wQYxbY
+
 #EXTINF:-1, DIGI Sport 4 🇷🇴
 https://top2new.koskoros.ru/top2/premium403/mono.m3u8
+
+#EXTINF:-1, DIGI Sport 4 🇷🇴
+http://ru02.sh365.org/22967/mpegts?token=Dubx4Vi2wQYxbY
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
@@ -282,8 +324,14 @@ https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium439/mono.m3u8
 
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://ru02.sh365.org/23072/mpegts?token=Dubx4Vi2wQYxbY
+
 #EXTINF:-1, PRIMA Sport 2 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8
+
+#EXTINF:-1, PRIMA Sport 2 🇷🇴
+http://ru02.sh365.org/23073/mpegts?token=Dubx4Vi2wQYxbY
 
 #EXTINF:-1, PRIMA Sport 3 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium585/mono.m3u8
@@ -518,6 +566,9 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1,NETO SPORTS 🇶🇦
 https://netohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,JIO HOTSTAR LINK 🇶🇦
+https://5db853d9942a.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.755921704393.channel.GkGr7jkb85qa.m3u8
 
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
@@ -829,10 +880,14 @@ https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
 
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
+
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
 
-
+#EXTINF:-1,TNT SPORTS 2 🇬🇧
+http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
 
 
